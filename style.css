@@ -411,6 +411,43 @@ footer{
         margin-top: 5px;
         font-size: 15px;
     } 
+    .icons{
+        display: grid;
+        width: 100%;  
+        row-gap: 50px;
+    }
+    .sample1{
+        order: 1;
+        margin: auto;
+        width: 50%;
+    }
+    .sample1 img{
+        width: 20%;
+        height:100%
+    }
+    .sample2{
+        order: 2;
+        margin: auto;
+        width: 50%;
+     
+    }
+    .sample2 img{
+        width: 20%;
+        height:100%
+    }
+    .sample3{
+        order: 3;
+        margin: auto;
+        width: 50%;
+    }
+    .sample3 img{
+        width: 20%;
+        height:100%
+    }
+    .more{
+        display: grid;
+        row-gap: 50px;
+    }
     .foot{
         display: grid;
         width: 100%;
